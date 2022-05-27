@@ -3,9 +3,7 @@ Simple project for CV project preprocessing
 
 Directory Structure:
 ./images
-[input images]
 ./xmldata
-[annotation files]
 
 Project Files:
 - app.py : main script
