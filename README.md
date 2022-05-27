@@ -2,6 +2,7 @@
 Simple project for CV project preprocessing
 
 Directory Structure:
+
 ./images
 ./xmldata
 
