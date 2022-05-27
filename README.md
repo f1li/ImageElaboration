@@ -1,12 +1,12 @@
 # ImageElaboration
 Simple project for CV project preprocessing
 
-Directory Structure
-./images
-./xmldata
+Directory Structure:
+./images [input images]
+./xmldata [annotation files]
 
-Project Files
-- app.py : mai script
+Project Files:
+- app.py : main script
 - CLOUDIFAI-Pythonskillsevaluation-081221-0659.pdf : detailed instructions
 
 How to run:
