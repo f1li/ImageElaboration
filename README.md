@@ -1,5 +1,5 @@
 # ImageElaboration
-Simple project for CV project preprocessing
+Simple project regarding Computer Vision preprocessing (elaborated for a job selection)
 
 Directory Structure:
 
